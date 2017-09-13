@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "How to set up postgre database from scratch"
+date:   2017-09-13
+excerpt: "working in musical.ly"
+tag:
+- Linux
+- Postgre Sql
+---
+
+
 # How to set up postgre sql database on Amazon EC2
 
 1. download and install postgre
