@@ -9,7 +9,7 @@ tag:
 ---
 
 
-# How to set up postgre sql database on Amazon EC2
+## How to set up postgre sql database on Amazon EC2
 
 1. download and install postgre
 
